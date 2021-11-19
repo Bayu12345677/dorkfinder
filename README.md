@@ -38,7 +38,7 @@ read> inurl:/page.php?id=
 ~ 
 [github](https://github.com/Bayu12345677)                    
 ~
-[~youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)           
+[youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)           
 
 <h1 align="center">
   bantu subscribe :)
