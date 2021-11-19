@@ -21,6 +21,7 @@ $ apt install fish
 $ apt install curl lynx
 $ apt install pv
 $ apt install git
+$ apt install apache2
 ```
 ```
 git clone https://github.com/Bayu12345677/dorkfinder
