@@ -36,8 +36,8 @@ read> inurl:/page.php?id=
 
 ## Akun social
 ~ 
-[~github](https://github.com/Bayu12345677)                    
-~                      
+[github](https://github.com/Bayu12345677)                    
+~
 [~youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)           
 
 <h1 align="center">
