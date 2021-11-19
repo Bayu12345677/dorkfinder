@@ -30,7 +30,7 @@ set COUNT 0
              # lynx sebagai pencari dork nya bisa juga memakai w3m
         while [ "$COUNT" -le 250 ]
                                 lynx "http://www.google.com/search?q=$argv[1]&start=$COUNT" -dump -listonly | \
-                                grep 'url?q=' | cut -d ' ' -f4 | sed 's/http:\/\/www.google.com\/url?q=//' | sed 's/\(&sa=\).*//' | sed -f urldecode.sed >> "nil"
+                                grep 'url?q=' | cut -d ' ' -f4 | sed 's/http:\/\/www.google.com\/url?q=//' | sed 's/\(&sa=\).*//' | sed -f file/urldecode.sed >> "nil"
                                                 set COUNT (math $COUNT+12)
                                                         end
                                                                 echo
